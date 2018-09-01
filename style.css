@@ -1,0 +1,17 @@
+h1 {
+  color :#8942f4;
+}
+li {
+  color :#f44292;
+  float :left ;
+  margin-right: 20px ;
+}
+p {
+  color :#f44277;
+}
+ul {
+  list-style: none ;
+}
+body {
+  background-image: url("scenary.jpg");
+}
